@@ -2,6 +2,9 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![mobile (1)](https://github.com/miteshp98/four-card-feature-section-master/assets/145320555/86cda37b-2951-4e31-9bf7-fa7bc3522364)
+
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Asolution URL](https://github.com/miteshp98/four-card-feature-section-master)
+- Live Site URL: [live site URL](https://miteshp98.github.io/four-card-feature-section-master/)
 
 ## My process
 
